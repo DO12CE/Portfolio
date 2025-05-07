@@ -21,11 +21,13 @@ function setupModal(modalId, btnId, closeId) {
         }
     });
 }
+
+
 0
 // Initialisation des modals
 setupModal("modalHome", "Home", "closeModalHome");
 setupModal("modalBts", "Bts", "closeModalBts");
-setupModal("modalVeille", "Veille-techno", "closeModalVeille");
+setupModal("modalContact", "Contact", "closeModalContact");
 setupModal("modalProjects", "Projects", "closeModalProjects");
 
 
