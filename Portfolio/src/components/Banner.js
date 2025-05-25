@@ -1,9 +1,10 @@
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import gregre from "../assets/img/gregre.png"
+import gregre from "../assets/img/gregre.png";
 import { ArrowRightCircle } from "react-bootstrap-icons";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
+import cvpdf from "../assets/doc/CV.pdf"
 
 export const Banner = () => {
   const [loopNum, setLoopNum] = useState(0);
@@ -88,9 +89,14 @@ export const Banner = () => {
                     science, un domaine où je peux allier analyse, logique et
                     résolution de problèmes.
                   </p>
-                  <button >
-                    Me contacter <ArrowRightCircle size={25} />
-                  </button>
+                  <a
+                    href={cvpdf}
+                    target="_blank"
+                  >
+                    <button>
+                      Voir CV <ArrowRightCircle size={25} />
+                    </button>
+                  </a>
                 </div>
               )}
             </TrackVisibility>

@@ -8,8 +8,9 @@ import { Contact } from "./components/Contact";
 import { Footer } from "./components/Footer";
 import {Bts} from "./components/Bts";
 import {CDA} from "./components/CDA";
-import {Situations} from "./components/Situations";
+import {SSI} from "./components/SSI";
 import {Veille} from "./components/Veille";
+import { Stage } from './components/Stage';
 
 
 function App() {
@@ -24,8 +25,8 @@ function App() {
       </div>
       <div><Bts/></div>
       <div><Projects /></div>
-     
-      <Situations/>
+      <Stage/>
+      <SSI/>
       <CDA/>
       <Veille/> 
       <Contact />
