@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.b08180f7.css",
-    "main.js": "/Portfolio/static/js/main.f7602569.js",
-    "static/js/787.fb771931.chunk.js": "/Portfolio/static/js/787.fb771931.chunk.js",
+    "main.css": "/Portfolio/static/css/main.9ce6dd52.css",
+    "main.js": "/Portfolio/static/js/main.4ed84cdb.js",
+    "static/js/512.498f396c.chunk.js": "/Portfolio/static/js/512.498f396c.chunk.js",
     "static/media/pandapy.pdf": "/Portfolio/static/media/pandapy.1fb6ff0b97a425e470ab.pdf",
     "static/media/golfy.pdf": "/Portfolio/static/media/golfy.3e9c1ac52953ff2e4b77.pdf",
     "static/media/sportshop.pdf": "/Portfolio/static/media/sportshop.622d4ec75343708e3ef2.pdf",
@@ -18,12 +18,15 @@
     "static/media/coconut.pdf": "/Portfolio/static/media/coconut.818b0d5445d9dd48f137.pdf",
     "static/media/color-sharp2.png": "/Portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/attestationinfoboost.pdf": "/Portfolio/static/media/attestationinfoboost.d0c5c7bb6d1911a7d00f.pdf",
+    "static/media/Fiche E6-Situation2-Sportshop - Yousra ZAABAT.pdf": "/Portfolio/static/media/Fiche E6-Situation2-Sportshop - Yousra ZAABAT.dd1311c0b94253956e51.pdf",
+    "static/media/Fiche E6-Situation1-MusicLibrary - Yousra ZAABAT.pdf": "/Portfolio/static/media/Fiche E6-Situation1-MusicLibrary - Yousra ZAABAT.909de7c2e82986a298d0.pdf",
     "static/media/attestationgolfy.pdf": "/Portfolio/static/media/attestationgolfy.a8d20023c7f71084d1fa.pdf",
     "static/media/gregre.png": "/Portfolio/static/media/gregre.939db78700bb63b1044e.png",
     "static/media/veille6.png": "/Portfolio/static/media/veille6.87890df14119843eced1.png",
     "static/media/bdd.pdf": "/Portfolio/static/media/bdd.57e824882fcdc635f84c.pdf",
     "static/media/veille7.png": "/Portfolio/static/media/veille7.230c1a27e14c1139676d.png",
     "static/media/golfy.png": "/Portfolio/static/media/golfy.8c7831e9fcc4f3c2cb8c.png",
+    "static/media/E5-Tableau de synthèse-Yousra ZAABAT.pdf": "/Portfolio/static/media/E5-Tableau de synthèse-Yousra ZAABAT.0b0bde3127ad9936b120.pdf",
     "static/media/epsilog.png": "/Portfolio/static/media/epsilog.ba1a453619c2eb8dddf5.png",
     "static/media/portfolio.png": "/Portfolio/static/media/portfolio.b9350a60996414755425.png",
     "static/media/pandaPython.png": "/Portfolio/static/media/pandaPython.7bc3748c9b95e61f5531.png",
@@ -48,9 +51,9 @@
     "static/media/CentraNo2-Medium.ttf": "/Portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/travelly.png": "/Portfolio/static/media/travelly.aa6f151099ff4814359a.png",
+    "static/media/AVENIRPROCHAINEMENT.pdf": "/Portfolio/static/media/AVENIRPROCHAINEMENT.39003a4f9992ed4126b7.pdf",
     "static/media/Cardveille1.pdf": "/Portfolio/static/media/Cardveille1.8c794ede059b01a8d899.pdf",
     "static/media/Cardveille2.pdf": "/Portfolio/static/media/Cardveille2.8c794ede059b01a8d899.pdf",
-    "static/media/grille.pdf": "/Portfolio/static/media/grille.8c794ede059b01a8d899.pdf",
     "static/media/infoboost.pdf": "/Portfolio/static/media/infoboost.8c794ede059b01a8d899.pdf",
     "static/media/portfolio.pdf": "/Portfolio/static/media/portfolio.8c794ede059b01a8d899.pdf",
     "static/media/travelly.pdf": "/Portfolio/static/media/travelly.8c794ede059b01a8d899.pdf",
@@ -61,12 +64,12 @@
     "index.html": "/Portfolio/index.html",
     "static/media/nav-icon1.svg": "/Portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/Portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.b08180f7.css.map": "/Portfolio/static/css/main.b08180f7.css.map",
-    "main.f7602569.js.map": "/Portfolio/static/js/main.f7602569.js.map",
-    "787.fb771931.chunk.js.map": "/Portfolio/static/js/787.fb771931.chunk.js.map"
+    "main.9ce6dd52.css.map": "/Portfolio/static/css/main.9ce6dd52.css.map",
+    "main.4ed84cdb.js.map": "/Portfolio/static/js/main.4ed84cdb.js.map",
+    "512.498f396c.chunk.js.map": "/Portfolio/static/js/512.498f396c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b08180f7.css",
-    "static/js/main.f7602569.js"
+    "static/css/main.9ce6dd52.css",
+    "static/js/main.4ed84cdb.js"
   ]
 }
