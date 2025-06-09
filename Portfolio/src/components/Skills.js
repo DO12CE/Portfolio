@@ -13,13 +13,13 @@ import {
 
 export const Skills = () => {
   const events = [
-    { status: "DCG1", date: "2018/2019", color: "#a7feb5" },
+    { status: "DCG1 (Diplôme de Comptabilité et de Gestion)", date: "2018/2019", color: "#a7feb5" },
     { status: "Licence informatique (L2)", date: "2019/2022", color: "#a7feb5" },
     { status: "Médiateur Numérique", date: "2022/2023", color: "#a7feb5" },
-    { status: "BTS SIO SLAM", date: "2023-2025", color: "#a7feb5" },
+    { status: "BTS SIO SLAM (Brevet de Technicien Supérieur , Services Informatiques aux Organisations , Solutions Logicielles et Applications Métiers)", date: "2023-2025", color: "#a7feb5" },
     { status: "Stage 1ère année - Golfy", date: "2023-2024", color: "#a7feb5" },
     { status: "Stage 2ème année - Infoboost", date: "2024-2025", color: "#a7feb5" },
-    { status: "Dev alternance IA", date: "à venir", color: "#607D8B" },
+    { status: "Bachelor/Licence Professionnelle alternance IA (Intelligence Artificielle)", date: "à venir", color: "#607D8B" },
   ];
 
   return (

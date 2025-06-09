@@ -23,7 +23,7 @@ import coconutpdf from "../assets/doc/coconut.pdf";
 import ecogitepdf from "../assets/doc/ecogites.pdf";
 import epsilogpdf from "../assets/doc/epsilog.pdf";
 import golfypdf from "../assets/doc/golfy.pdf";
-import grillepdf from "../assets/doc/grille.pdf";
+import grillepdf from "../assets/doc/E5-Tableau de synthèse-Yousra ZAABAT.pdf";
 import hotelNeptunepdf from "../assets/doc/hotelneptune.pdf";
 import Infoboostpdf from "../assets/doc/infoboost.pdf";
 import musicpdf from "../assets/doc/music.pdf";
@@ -35,6 +35,8 @@ import travellypdf from "../assets/doc/travelly.pdf";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 import { ProjectCardNoAttest } from "./ProjectCardNoAttest";
+import avenir from "../assets/doc/AVENIRPROCHAINEMENT.pdf"
+
 
 export const Projects = () => {
   const projects = [
@@ -42,7 +44,7 @@ export const Projects = () => {
       title: "Travelly",
       description: "Design & Development",
       imgUrl: travelly,
-      pdfFile: travellypdf,
+      pdfFile: avenir,
     },
     {
       title: "Projet SEO",
@@ -124,7 +126,7 @@ export const Projects = () => {
       title: "Infoboost",
       description: "Data & Development",
       imgUrl: Infoboost,
-      pdfFile: Infoboostpdf,
+      pdfFile: avenir,
     },
   ];
   // const grilles =[
@@ -215,7 +217,7 @@ export const Projects = () => {
                       <Tab.Pane eventKey="third" id="stage">
                         <Row>
                           {projects3.map((project3, index) => {
-                            return <ProjectCard key={index} {...project3} />;
+                            return <ProjectCardNoAttest key={index} {...project3} />;
                           })}
                         </Row>
                       </Tab.Pane>

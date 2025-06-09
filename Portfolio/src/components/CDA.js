@@ -5,9 +5,9 @@ import { ProjectCard } from "./ProjectCard";
 import "animate.css";
 import TrackVisibility from "react-on-screen";
 import sportshoppdf from "../assets/doc/sportshop.pdf";
-import attestSportShop from "../assets/doc/sportshop.pdf";
+import attestSportShop from "../assets/doc/Fiche E6-Situation2-Sportshop - Yousra ZAABAT.pdf";
 import musicpdf from "../assets/doc/music.pdf";
-import attestMusic from "../assets/doc/music.pdf";
+import attestMusic from "../assets/doc/Fiche E6-Situation1-MusicLibrary - Yousra ZAABAT.pdf";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 
 export const CDA = () => {
