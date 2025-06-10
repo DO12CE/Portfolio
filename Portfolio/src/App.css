@@ -428,6 +428,22 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 }
 
 /************ Projects Css ************/
+.competences-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 50px;
+  margin-bottom: 50px;
+  margin-top: 50px;
+
+}
+.competence{
+  display: flex;
+  flex-direction: column !important;
+  justify-content: space-between;
+  max-width: 50px;
+}
+
 .project {
   padding: 80px 0;
   position: relative;

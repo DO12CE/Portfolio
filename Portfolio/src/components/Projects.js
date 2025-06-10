@@ -140,6 +140,65 @@ export const Projects = () => {
 
   return (
     <section className="project" id="projects">
+      <h2>Mes langages</h2>
+        <div class="competences-container">            
+            <div class="competence">
+                <img src={require("../assets/img/html.png")} alt="HTML" width="50"/>
+                <span>HTML</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/css.png")} alt="CSS" width="50"/>
+                <span>CSS</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/js.png")} alt="JavaScript" width="50"/>
+                <span>JavaScript</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/php.png")} alt="PHP" width="50"/>
+                <span>PHP</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/mysql.png")} alt="MySQL" width="50"/>
+                <span>MySQL</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/python.png")} alt="Python" width="50"/>
+                <span>Python</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/symfony.png")} alt="Symfony" width="50"/>
+                <span>Symfony</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/react.png")} alt="React" width="50"/>
+                <span>React</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/git.png")} alt="Git" width="50"/>
+                <span>Git</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/github.png")} alt="GitHub" width="50" />
+                <span>GitHub</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/cplusplus.png")} alt="cplusplus" width="50" />
+                <span>C++</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/java.png")} alt="Java" width="50" />
+                <span>java</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/odoo.png")} alt="odoo" width="50" />
+                <span>Odoo</span>
+            </div>
+            <div class="competence">
+                <img src={require("../assets/img/wordpress.png")} alt="WordPress" width="50" />
+                <span>WordPress</span>
+            </div>
+        </div>
       <Container>
         <Row>
           <Col size={12}>
